@@ -5,31 +5,27 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  gradientColors: "#4484ce, #1ad7c0, #000000",
+  firstName: "José Fernando",
   middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  lastName: "",
+  message: " Adventurous and passionate about technology. =) ",
   icons: [
     {
-      image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      image: "fa-linkedin",
+      url: "https://www.linkedin.com/in/jos%C3%A9-fernando-souza-concei%C3%A7%C3%A3o-ba5b2a105/",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      image: "fa-github",
+      url: "https://github.com/fernandodeveloper",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/feh_sc/",
     },
     {
-      image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
-    },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      image: "fa-whatsapp",
+      url: "https://api.whatsapp.com/send?phone=5532991395590",
     },
   ],
 };
